@@ -1,0 +1,14 @@
+#top{
+    width: 40%;
+    background-color: coral;
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+    margin-left: 40%;
+}
+#bottom{
+    background-color: cadetblue;
+    border-style: solid;
+    border-color: darkred;
+    border-width: px;
+}
